@@ -1,0 +1,28 @@
+{
+  "name": "dapp-starter-kit",
+  "version": "1.0.0",
+  "description": "a decentralized app starter kit",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genialtechie/dapp-starter-kit.git"
+  },
+  "author": "genialtechie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genialtechie/dapp-starter-kit/issues"
+  },
+  "homepage": "https://github.com/genialtechie/dapp-starter-kit#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "truffle": "^5.5.2",
+    "web3": "^1.7.0"
+  }
+}
