@@ -22,7 +22,6 @@
   "homepage": "https://github.com/genialtechie/dapp-starter-kit#readme",
   "dependencies": {
     "lite-server": "^2.6.1",
-    "truffle": "^5.5.2",
     "web3": "^1.7.0"
   }
 }
