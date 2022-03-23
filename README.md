@@ -14,3 +14,6 @@ You need to have the following installed:
 * In the node console, run `npm install` to install dependencies. 
 * Run `truffle migrate`, you should see a new "build" folder in the directory if there are no issues.
 * Enjoy coding!
+
+# NOTE
+When deploying to infura make sure to use .env to secure vulnerable data!

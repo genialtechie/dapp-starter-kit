@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/genialtechie/dapp-starter-kit#readme",
   "dependencies": {
-    "lite-server": "^2.6.1",
-    "web3": "^1.7.0"
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "dotenv": "^16.0.0",
+    "lite-server": "^2.6.1"
   }
 }
